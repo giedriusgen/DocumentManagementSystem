@@ -20,7 +20,7 @@ This is document management system created by The Good Guys team in Akademija.IT
 To install this application, run the following commands:
 
 ```
-git clone https://github.com/JustasMarkauskas/Document-Management-System.git
+git clone https://github.com/giedriusgen/Document-Management-System.git
 ```
 
 This will get a copy of the project installed locally. To install all of its dependencies and start each app, follow the instructions below.
